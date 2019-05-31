@@ -1,0 +1,15 @@
+c:\users\тынышбаева.corp\source\repos\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+c:\users\тынышбаева.corp\source\repos\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+c:\users\тынышбаева.corp\source\repos\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+c:\users\тынышбаева.corp\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.csprojAssemblyReference.cache
+c:\users\тынышбаева.corp\source\repos\TaskManager\TaskManager\obj\Debug\MainWindow.g.cs
+c:\users\тынышбаева.corp\source\repos\TaskManager\TaskManager\obj\Debug\App.g.cs
+c:\users\тынышбаева.corp\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.cache
+c:\users\тынышбаева.corp\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.lref
+c:\users\тынышбаева.corp\source\repos\TaskManager\TaskManager\obj\Debug\MainWindow.baml
+c:\users\тынышбаева.corp\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.g.resources
+c:\users\тынышбаева.corp\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+c:\users\тынышбаева.corp\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+c:\users\тынышбаева.corp\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+c:\users\тынышбаева.corp\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+c:\users\тынышбаева.corp\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
